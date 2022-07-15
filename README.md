@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanprojectid" alt="bryanprojectid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kritozAe" target="blank"><img src="https://img.shields.io/twitter/follow/kritoz.ae?logo=twitter&style=for-the-badge" alt="kritoz.ae" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kritozAe" target="blank"><img src="https://img.shields.io/twitter/follow/kritozAe?logo=twitter&style=for-the-badge" alt="kritozAe" /></a> </p>
 
 - 🔭 I’m currently working on [Krito Fantasy](http://mykritoproduction.rf.gd)
 
